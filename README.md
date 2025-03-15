@@ -2,6 +2,14 @@
 
 A sleek and responsive **Spotify-inspired** music streaming web app with multiple pages, seamless music playback, and a modern UI. Built using **React, Vite, and Tailwind CSS** for lightning-fast performance and a smooth user experience.  
 
+## 🎬 Watch Demo  
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+
+🔹 **OR** if uploaded to GitHub:  
+[Click here to watch the demo](demo-video-link)  
+
+---
+
 ## 🚀 Features  
 - ✅ Multi-page layout  
 - ✅ Play & control music seamlessly  
@@ -27,4 +35,5 @@ Here are some screenshots of the project:
 ## 📥 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/ItsMeAreebaAmjad/SpotifyClone-React
+   git clone https://github.com/ItsMeAreebaAmjad/SpotifyClone-React.git
+
