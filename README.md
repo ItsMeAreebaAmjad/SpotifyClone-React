@@ -27,4 +27,4 @@ Here are some screenshots of the project:
 ## 📥 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/ItsMeAreebaAmjad/SpotifyClone-React
