@@ -25,7 +25,7 @@ Here are some screenshots of the project:
 ![Screenshot 4](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image4.png)  
 ![Screenshot 5](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image5.png)  
 ![Screenshot 6](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image6.png)  
-![Screenshot 7](image-link-7)  
+![Screenshot 7](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image7.png)  
 
 ## 📂 Tech Stack  
 - **Frontend:** React, Vite, Tailwind CSS  
