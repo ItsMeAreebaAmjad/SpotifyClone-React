@@ -21,7 +21,7 @@ Here are some screenshots of the project:
 
 ![Screenshot 1](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image1.png)  
 ![Screenshot 2](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image2.png)  
-![Screenshot 3](image-link-3)  
+![Screenshot 3](https://github.com/ItsMeAreebaAmjad/SpotifyClone-React/blob/main/Image3.png)  
 ![Screenshot 4](image-link-4)  
 ![Screenshot 5](image-link-5)  
 ![Screenshot 6](image-link-6)  
